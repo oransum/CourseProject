@@ -23,8 +23,8 @@ twitter_22,SARCASM
 twitter_23,NOT_SARCAiSM
 twitter_24,SARCASM
 twitter_25,SARCASM
-twitter_26,SARCASM
-twitter_27,NOT_SARCAiSM
+twitter_26,NOT_SARCAiS
+twitter_27,SARCASM
 twitter_28,NOT_SARCAiSM
 twitter_29,SARCASM
 twitter_30,NOT_SARCAiSM
