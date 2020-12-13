@@ -1,0 +1,6 @@
+numpy>=1.16.2
+requests>=2.22.0
+nlpaug
+simpletransformers
+transformers
+pandas
